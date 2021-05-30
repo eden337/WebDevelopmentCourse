@@ -1,0 +1,41 @@
+/**************Tag Selectors****************/
+
+
+
+h1{
+  color:#931a25;
+  font-style: italic;
+  font-size: 50px;
+}
+
+img:hover{
+  background-color: gold;
+}
+
+
+p{
+  color: #ffcb8e;
+  font-style: oblique;
+}
+
+body{
+  background-color: #f5efef;
+}
+
+/**************Class selectors****************/
+
+
+.bacon{
+  background-color: green;
+}
+.leafy-green{
+  background-color: red;
+}
+.circular{
+  border-radius: 20%;
+}
+
+/************ID selector******************/
+#heading{
+  color: blue;
+}
